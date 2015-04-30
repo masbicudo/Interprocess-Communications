@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipesServer", "NamedPipesExample\NamedPipesServer.csproj", "{F37FE323-4E9A-4CCA-A416-2923C5D32DCC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipesServer", "NamedPipeServer\NamedPipesServer.csproj", "{F37FE323-4E9A-4CCA-A416-2923C5D32DCC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeClient", "NamedPipeClient\NamedPipeClient.csproj", "{0D1937E5-34EB-4274-AB16-A86F6FD129C4}"
 EndProject
